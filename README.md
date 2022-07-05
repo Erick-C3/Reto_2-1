@@ -55,3 +55,7 @@ Finalmente Verificar que los dos ultimos ingresos cumplan con los
 requisitos AUTOMATICAMENTE para dieta y años para jubilarse además
 de informacion por defecto como apodo y si llego solo o no
 ```
+
+### Entrega
+> El repositorio de entrega tiene que contar con el archivo .sql conteniendo los comandos
+> utilizados para cumplir con el reto EN EL ORDEN que se pidio (No hacer todo de una)
