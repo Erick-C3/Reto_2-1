@@ -2,6 +2,11 @@
 
 Usando SQL completar los requerimientos del cliente 
 
+Considerar que: 
+- Es necesario realizar paso por paso en el orden indicado las modificaciones a la base de datos
+- Nada tiene que ser manual ni repetitivo, cuentan con instrucciones para evitar eso
+- Fecha de entrega: Doming 25-06 hasta ultima hora
+
 1º
 >Tenemos un Cat Café y queremos almacenar la informacion de nuestros gatitos 
 >de una mejor manera, por lo tanto necesitamos su ayuda
