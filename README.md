@@ -28,8 +28,7 @@ Considerar que:
 > que no tienen 
 
 3º
-> Encargarse de asignar el valor por defecto a los
-> gatitos con valores NULL en su apodo
+> Encargarse de asignar el valor por `defecto` de la columna apodo solo a los registros de gatitos con valores NULL en su apodo, de esta manera los registros que no tienen apodo deben figurar con el valor asignado al default de la columna
 
 4º
 > Teniendo en cuenta que no todos los gatitos llegaron
